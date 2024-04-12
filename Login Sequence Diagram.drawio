@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T09:30:23.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F_8iTh8QpUBRXBP1V06g" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T09:31:45.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KKXoJ2xGdxw0okn0KiPq" version="24.2.3" type="github">
   <diagram name="Page-1" id="u-RcMR10XN4kYOu92wQx">
     <mxGraphModel dx="1120" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
             <mxPoint x="151.5" y="439" as="sourcePoint" />
             <mxPoint x="50" y="439" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RIzMrp0IMxWrWFFKfatS-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Login Sequence Diagram For Online Blood Donation System&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;display:none&quot; id=&quot;SDCloudData&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="510" width="680" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
