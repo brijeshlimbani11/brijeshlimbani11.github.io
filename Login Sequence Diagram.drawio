@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T09:27:20.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tzuYO3aGpI6EaNn561uQ" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T09:30:23.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F_8iTh8QpUBRXBP1V06g" version="24.2.3" type="github">
   <diagram name="Page-1" id="u-RcMR10XN4kYOu92wQx">
     <mxGraphModel dx="1120" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,10 +49,10 @@
             <mxPoint x="309.5" y="225" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIzMrp0IMxWrWFFKfatS-16" value="Check Authenticity for Access" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.464;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RIzMrp0IMxWrWFFKfatS-8" target="RIzMrp0IMxWrWFFKfatS-7">
+        <mxCell id="RIzMrp0IMxWrWFFKfatS-16" value="Check Authenticity for Access" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="510" y="160" as="sourcePoint" />
-            <mxPoint x="550" y="240" as="targetPoint" />
+            <mxPoint x="644.5" y="158" as="sourcePoint" />
+            <mxPoint x="474.5" y="158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RIzMrp0IMxWrWFFKfatS-17" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" target="RIzMrp0IMxWrWFFKfatS-7">
@@ -117,6 +117,21 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="230" y="380" as="sourcePoint" />
             <mxPoint x="150" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIzMrp0IMxWrWFFKfatS-31" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0.464;exitY=0.2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="646" y="408" as="sourcePoint" />
+            <mxPoint x="474.5" y="408" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RIzMrp0IMxWrWFFKfatS-32" value="Destroy Session&lt;div&gt;and tokens&lt;/div&gt;&lt;div&gt;from database&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="404" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RIzMrp0IMxWrWFFKfatS-33" value="Login Successfully" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="151.5" y="439" as="sourcePoint" />
+            <mxPoint x="50" y="439" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
